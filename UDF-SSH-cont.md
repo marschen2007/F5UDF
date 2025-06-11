@@ -2,5 +2,5 @@
 ![img2](./投影片3.jpeg)
 ![img3](./投影片4.jpeg)
 ![img4](./投影片5.jpeg)
-![img5](./(投影片6.jpeg)
-![img6](./(投影片7.jpeg)
+![img5](./投影片6.jpeg)
+![img6](./投影片7.jpeg)
