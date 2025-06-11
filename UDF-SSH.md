@@ -33,3 +33,11 @@ ssh-keygen -f ~/.ssh/agility
 > ![../../\_images/udf\_ssh\_external.png](https://clouddocs.f5.com/training/community/waf/html/_images/udf_ssh_external.png)
 
 你應該會被提示使用預設的 SSH 應用程式來開啟連線，例如在 MacOS 上的 Terminal 或 iTerm，或在 Windows 上的 PuTTY。
+
+
+![img1](./投影片2.jpeg)
+![img2](./投影片3.jpeg)
+![img3](./投影片4.jpeg)
+![img4](./投影片5.jpeg)
+![img5](./投影片6.jpeg)
+![img6](./投影片7.jpeg)
